@@ -1,0 +1,19 @@
+{
+  "name": "enyo-grunt-skeleton",
+  "version": "1.0.0",
+  "authors": [
+    "bart <bart@netage.nl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "enyo-ilib":"git://github.com/enyojs/enyo-ilib.git"
+  }
+}

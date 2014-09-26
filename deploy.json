@@ -1,0 +1,6 @@
+{
+	
+	"packagejs": "./package.js",
+	"assets": ["./icon.png", "./index.html", "./assets","./resources"]
+	
+}
